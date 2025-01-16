@@ -339,7 +339,7 @@ a:hover {
     font-weight: 500;
 }
 .site-name {
-	text-decoration: underline;
+	/* text-decoration: underline; */
 	text-decoration-color: #000000;
 	margin: 10px 0 10px 0;
 	/* -webkit-text-stroke: 1px #979797;  */
